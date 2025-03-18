@@ -1,6 +1,6 @@
 ﻿// namespace Geometry;
 //
-// public class Segment(Point start, Point end)
+// public class Segment
 // {
 //     //Your code here
 //     
